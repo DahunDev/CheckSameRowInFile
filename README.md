@@ -1,8 +1,8 @@
 # CheckSameRowInFile
-Check if there is any duplicate line in the file.
-usage: 
-open terminal and type
-./checkrows <filename>
-
-to compile
-g++ -o checkrows checkrows.cpp
+Check if there is any duplicate line in the file. </br>
+Usage: </br>
+open terminal and type </br>
+./checkrows <filename> </br>
+</br>
+Compile: </br>
+g++ -o checkrows checkrows.cpp </br>
